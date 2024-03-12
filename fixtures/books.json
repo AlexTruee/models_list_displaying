@@ -1,0 +1,56 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Ф.Д. Достоевский",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+    {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Изучаем Python",
+      "author": "Мэтиз Эрик",
+      "pub_date": "2020-12-06"
+    }
+  },
+    {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Основы Python",
+      "author": "Дауни Аллен Б.",
+      "pub_date": "2021-12-06"
+    }
+  },
+    {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Чистая архитектура",
+      "author": "Мартин Роберт С",
+      "pub_date": "2018-12-06"
+    }
+  },
+    {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Асинхронная обработка и оптимизация",
+      "author": "Симпсон Кайл",
+      "pub_date": "2022-11-06"
+    }
+  }
+]
